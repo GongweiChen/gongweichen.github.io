@@ -362,16 +362,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-two-papers-about-ai-agent-dataset-distillation-are-accepted-by-cvpr-2025-sparkles",
+          title: 'Two papers about AI Agent, Dataset Distillation are accepted by CVPR 2025! :sparkles:...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-about-gui-agent-benchmark-is-accepted-by-iclr-2025-as-spotlight-sparkles",
+          title: 'One paper about GUI Agent Benchmark is accepted by ICLR 2025 as Spotlight!...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-one-paper-about-gui-agent-are-accepted-by-acl-main-2025-sparkles",
+          title: 'One paper about GUI Agent are accepted by ACL main 2025! :sparkles:',
+          description: "",
+          section: "News",},{id: "news-two-papers-about-mllm-gui-agent-highlight-are-accepted-by-iccv-2025-sparkles",
+          title: 'Two papers about MLLM, GUI Agent (Highlight) are accepted by ICCV 2025! :sparkles:...',
+          description: "",
+          section: "News",},{id: "news-one-paper-about-mllm-based-unified-multimodal-retrieval-is-accepted-by-acm-mm-2025-sparkles",
+          title: 'One paper about MLLM-based Unified Multimodal Retrieval is accepted by ACM MM 2025!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
