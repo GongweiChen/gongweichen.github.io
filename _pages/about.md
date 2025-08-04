@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,9 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a post-doc researcher in Prof. Liqiang Nie's group, and working with Prof. Rui Shao and Prof. Miao Zhang. I received my PhD degree from ICT, CAS in 2023, supervised by Prof. Shuqiang Jiang, and my bachelor degree from USTB in 2016.
-
-### Research Interest
+I am currently a post-doc researcher in [Prof. Liqiang Nie](https://liqiangnie.github.io)'s group. I received my PhD degree from Institute of Computing Technology, Chinese Academy of Sciences in 2023, supervised by [Prof. Shuqiang Jiang](https://vipl.ict.ac.cn/homepage/jsqgrzy/), and my bachelor degree from University of Science and Technology Beijing in 2016. I also had close collaboration with [Prof. Rui Shao](https://rshaojimmy.github.io/OrionLab/index.html), [Prof. Miao Zhang](https://miaozhang0525.github.io/), and [Prof. Xinhang Song](https://vipl.ict.ac.cn/people/xhsong/).
 
 My research interests focus on the broad areas of multimodal learning, AI agent, efficient learning, and scene understanding. Recently, I focus on
 - Multimodal Large Language Models (MLLM)
