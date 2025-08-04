@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-07
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+One paper about MLLM-based Unified Multimodal Retrieval is accepted by ACM MM 2025! :sparkles:
