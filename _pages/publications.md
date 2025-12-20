@@ -15,11 +15,18 @@ nav_order: 2
 
 ## Preprints
 
+<div class="publications">
+
 {% bibliography --file papers_arxiv %}
+
+</div>
 
 ---
 
 ## Publications
 
+<div class="publications">
+
 {% bibliography %}
 
+</div>
