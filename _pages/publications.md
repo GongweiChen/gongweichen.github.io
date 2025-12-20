@@ -15,6 +15,8 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --file papers_arxiv %}
+
+{% bibliography --file papers %}
 
 </div>
