@@ -13,8 +13,6 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="publications">
-
 ## Preprints
 
 {% bibliography --file papers_arxiv %}
@@ -25,4 +23,3 @@ nav_order: 2
 
 {% bibliography %}
 
-</div>
