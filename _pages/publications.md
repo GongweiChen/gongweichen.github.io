@@ -15,8 +15,14 @@ nav_order: 2
 
 <div class="publications">
 
+Preprints
+--------
+
 {% bibliography --file papers_arxiv %}
 
-{% bibliography --file papers %}
+Publications
+--------
+
+{% bibliography %}
 
 </div>
